@@ -9,5 +9,5 @@ print(cube(5))
 # passing a function inside a function
 def application(fx,value):
     return 6 + fx(value)
-
+#
 print(application(lambda x: x * x ,2))
