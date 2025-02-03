@@ -26,6 +26,6 @@ def snake_water_gun_game():
     result = check_winner(user_choice, computer_choice)
     print(result)
 
-# Run the game
+# Run the gamed
 if __name__ == "__main__":
     snake_water_gun_game()
