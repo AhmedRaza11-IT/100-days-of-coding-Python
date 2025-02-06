@@ -7,6 +7,7 @@ class person:
     def info(self):
         print(f"{self.name} is a {self.occupation}")
 
+
 a = person()
 # a.name = "Ahsan"
 # a.occupation = "Accountant"
